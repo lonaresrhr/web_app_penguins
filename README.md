@@ -1,4 +1,4 @@
-# Penguins web app deployed on Heroku
+# Penguins web app deployed on Heroku [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/lonaresrhr/web_app_penguins/penguins-app.py)
 
 The deployed web app is live at https://dp-penguins.herokuapp.com/
 
